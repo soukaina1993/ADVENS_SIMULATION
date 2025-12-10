@@ -1,0 +1,19 @@
+Paramètre;Valeur;Explication
+General_mode;3;1: Design by pressure loss / 2: Design by velocity / 3: Operation
+T.DHN;65;Température sortie centrale [°C]
+dT_network;10;Delta T estimé du réseau en °C (pour calcul des prop fluide retour)
+ResFlowRatio;0;residual flow ratio [0-1]
+DHN.Fluid.Type;Water;Fluide caloporteur
+AdditionnalPressure;100000;[Pa] Pression residuelle au point haut
+Climat;Fribourg;Choix du profil de température
+Annee;2015;si n'existe pas prend année moyenne (année ou mean)
+Sol;;constant ou non (si constant mettre un T°)
+Altittude.plant;628;Altitude centrale [m]
+Altittude.max;630;Altitude max réseau [m]
+Altittude.min;625;Altitude min réseau [m]
+Temps;8760;nombre de pas de temps 8760 h/année
+;;
+;;
+Heating_mode;0;0: ECS+Chauffage / 1: Chauffage uniquement
+Sous-couche;2;
+Nombre de neutrons;3;

@@ -1,0 +1,9 @@
+Substation nb;Type;Value;T_ref (°C);Substation Type;dT;Tmin;Tpinch;Building type;Heat mode;L_raccord (m);DN_raccord;Altitude [m];
+Generic;Energy;0;12;HX;10;65;5;Habitat_collectif;Heat;1;150;628;0
+1;Energy;1259576;-50;HP;;-10;;;Cool;2;;;
+2;Energy;54409;-50;HP;;-10;;;Cool;;;;
+3;Energy;276500;;;;;;;;;;;
+4;Energy;81070;;;;;;;;;;;
+5;Energy;215680;;;;;;;;;;;
+6;Energy;863100;;;;;;;ECS;;;;
+7;Energy;50080;;;;;;;ECS;;;;

@@ -1,0 +1,7 @@
+MaterialName,Density[kg/m3],ThermalConductivity[w/m.K],SpecificHeat [J/kg.K],YoungModulus[MPa],Yield strength[MPa]
+Steel,7830,63.0,434,200500,235
+StainlessSteel,8000,15.0,450,220000,200
+Copper,8954,395.0,384,100000,40
+PVC,1600,0.19,1000,3400,52
+PEX,960,0.33,2260,3400,35
+

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1588656030 source:g:\codeur\cpp-project\iofile\iofile\codeblocks\dynstring_exe\iofile_test\dynstrmain.cpp
+	"dynstring.h"
+
+1588657589 g:\codeur\cpp-project\iofile\iofile\codeblocks\dynstring_exe\iofile_test\dynstring.h
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+
+1588657433 source:g:\codeur\cpp-project\iofile\iofile\codeblocks\dynstring_exe\iofile_test\iomain.cpp
+	"iofile.h"
+
+1588657561 g:\codeur\cpp-project\iofile\iofile\codeblocks\dynstring_exe\iofile_test\iofile.h
+
+1588657532 source:g:\codeur\cpp-project\iofile\iofile\codeblocks\dynstring_exe\iofile_test\iofile.cpp
+	<cstdlib>
+	<math.h>
+
+1590411237 source:d:\dev\hes-so\code-3a00c24f268152ed63577b29e9f710104dab62a1\iofile_all\iomain.cpp
+	"iofile.h"
+	"dynstring.h"
+	<iostream>
+
+1590400778 d:\dev\hes-so\code-3a00c24f268152ed63577b29e9f710104dab62a1\iofile_all\iofile.h
+	<fstream>
+	<iostream>
+	<string>
+	"array.h"
+	"dynstring.h"
+
+1590338288 d:\dev\hes-so\code-3a00c24f268152ed63577b29e9f710104dab62a1\iofile_all\array.h
+
+1588749910 d:\dev\hes-so\code-3a00c24f268152ed63577b29e9f710104dab62a1\iofile_all\dynstring.h
+	<fstream>
+	<iostream>
+	<string>
+	<cstring>
+
+1590338317 source:d:\dev\hes-so\code-3a00c24f268152ed63577b29e9f710104dab62a1\iofile_all\iofile.cpp
+	<fstream>
+	<iostream>
+	<string>
+	"array.h"
+	"dynstring.h"
+	"iofile.h"
+	<stdlib.h>
+	<math.h>
+

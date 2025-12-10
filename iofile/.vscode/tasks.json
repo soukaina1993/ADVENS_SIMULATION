@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "type": "shell",
+        "label": "g++.exe build all",
+        "command": "g++.exe",
+        "args": ["-g",
+		  "${workspaceFolder}\\iomain.cpp",
+		  "${workspaceFolder}\\iofile.cpp"
+          "-o",
+          "${fileDirname}\\vscode-iofile.exe"],
+        "options": {
+          "cwd": ".\\"
+        },
+        "problemMatcher": ["$gcc"],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }
+  

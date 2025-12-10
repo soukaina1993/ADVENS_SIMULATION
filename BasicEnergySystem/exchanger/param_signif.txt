@@ -1,0 +1,29 @@
+_____________________________PARAMATERERS SIGNIFICATION___________________________________
+For all heat exchangers:
+		k: Global heat exchange coefficient if known
+__________________________________________________________________________________________
+For tubular heat exchangers:
+		a => DiamE : External diameter
+		b => DiamH : Hydraulic diameter
+		c => DiamI : Internal diameter
+
+For plate heat exchangers:
+		a => s : Size of a single plate
+		b => l : Width of the plates
+		c => dPlate : Gap in between 2 plates
+		d => C : Corrugation angle
+		e => Rfc : Fouling resistance on cold side
+		f => Rfh : Fouling resistance on hot side
+		g => ep : Thickness of the plates
+		h => lambda : Thermal conductivity of the plate
+
+For dry collers:
+		a => DiamI : Internal diameter
+		b => DiamE : External diameter
+		c => A : Half length of the blade
+		d => B : Half width of the blade
+		e => Rex : Blade hole radius
+		f => eAil: Blade thickness
+		g => n : Blade number
+		h => Beta : Dilatation coefficient
+__________________________________________________________________________________________

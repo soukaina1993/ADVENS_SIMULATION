@@ -1,0 +1,9 @@
+Substation nb	Energy [kWh/an]	Substation Type	Substation Name	Building Type	Heat Type	Altitude [m]	T_need (°C)	T_ref (°C)	dT	L_raccord (m)	DN_raccord
+1	1500000	HP	MyHP_1	Habitat_collectif	HeatECS	474	55	12	3	1	80
+2	2500000	HP	MyHP_1	Habitat_collectif	HeatECS	474	55	12	3	1	80
+3	300000	HP	MyHP_1	Habitat_collectif	HeatECS	474	55	12	3	1	80
+4	1200000	HP	MyHP_1	Habitat_collectif	HeatECS	474	55	12	3	1	80
+5	200000	HP	MyHP_1	Habitat_collectif	HeatECS	474	55	12	3	1	80
+6	250000	HP	MyHP_1	Habitat_collectif	HeatECS	474	55	12	3	1	80
+7	600000	HP	MyHP_1	Habitat_collectif	HeatECS	474	55	12	3	1	80
+8	450000	HP	MyHP_1	Habitat_collectif	HeatECS	474	55	12	3	1	80

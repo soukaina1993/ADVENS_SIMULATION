@@ -1,0 +1,6 @@
+Substation nb	Energy [kWh/an]	Substation Type	Substation Name	Building Type	Heat Type	Altitude [m]	T_need (?C)	T_ref (?C)	dT	L_raccord (m)	DN_raccord
+1	250000	HX	-	Installation_sportive	ECS	606	55	18	20	30	65
+2	70000	HX	-	Installation_sportive	ECS	606	55	18	20	25	80
+3	250000	HX	-	Installation_sportive	ECS	606	55	18	20	40	80
+4	100000	HX	-	Lieu_de_rassemblement	ECS	606	55	18	20	3	32
+5	50000	HX	-	Installation_sportive	Heat	606	55	18	20	3	125

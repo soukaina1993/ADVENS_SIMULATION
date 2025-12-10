@@ -1,0 +1,9 @@
+Title	isopt	weight	lower	upper	genome
+Pin	1.0	1.0	12.0E5	22.0E5	20.0E5
+Tin	1.0	1.0	353.15	373.15	353.15
+Xin	0.0	1.0	0.95	1.0	1.0
+Pout	1.0	1.0	5.0E5	8.0E5	7.0E5
+Mflow	0.0	1.0	0.200	0.420	0.350
+Nrot	0.0	1.0	40	60	50
+Type	0.0	1.0	40	60	1
+Speed	0.0	1.0	40	60	0

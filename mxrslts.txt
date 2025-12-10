@@ -1,0 +1,2 @@
+ngen	score	chrom	Pin	Tin	Xin	Pout	Mflow	Nrot	Type	Speed
+10	8081.36	genome	2.16187e+006	354.558	1	533694	0.35	50	1	0

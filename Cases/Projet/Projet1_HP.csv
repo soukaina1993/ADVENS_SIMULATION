@@ -1,0 +1,13 @@
+Name	Fluid	COP	eta_comp	pinchCond	pinchEvap				
+HP_1	R32	Default	0.8	5.3	4.72
+HP_2	R32	Default	0.8	7.7	6.2
+HP_3	R32	Default	0.8	7.7	6.2
+HP_4	R32	Default	0.8	6.78	7.55
+HP_5	R32	Default	0.8	6.26	4.81
+HP_6	R32	Default	0.8	7.49	6.98
+HP_7	R32	Default	0.8	5.5	7.2
+HP_8	R32	Default	0.8	7.39	7.52
+HP_9	R32	Default	0.8	6.9	7.79
+HP_10	R32	Default	0.8	7.51	8
+HP_11	R32	Default	0.8	8	7.47
+									

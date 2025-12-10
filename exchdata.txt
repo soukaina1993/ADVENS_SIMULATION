@@ -1,0 +1,14 @@
+Title	isopt	weight	lower	upper	genome
+TCin	1.0	1.0	173.15	373.15	318.15
+PCin	1.0	1.0	0.0	10E5	1E5
+xCin	1.0	1.0	0.0	1.0	0.0
+mC	0.0	1.0	0.0	100	3.306
+THin	1.0	1.0	173.15	373.15	353.15
+PHin	1.0	1.0	0.0	10E5	1E5
+xHin	1.0	1.0	0.0	1.0	0.0
+mH	1.0	1.0	0.0	100	1
+dTmin	0.0	1.0	0.0	100	4
+S	0.0	1.0	0.0	100	13.45
+P	0.0	1.0	0.0	100	152
+TCout	1.0	1.0	173.15	373.15	343.15		A utiliser seulement pour mode design
+THout	1.0	1.0	173.15	373.15	323.15		A utiliser seulement pour mode design

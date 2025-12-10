@@ -1,0 +1,9 @@
+Alleles	variable	isopt 	weight	lower	upper 	genome
+Pin	Continious	1.0	1.0	12.0E5	22.0E5	20.0E5
+Tin	Continious	1.0	1.0	353.15	373.15	353.15
+Xin	Continious	0.0	1.0	0.95	1.0	1.0
+Pout	Continious	1.0	1.0	5.0E5	8.0E5	7.0E5
+Mflow	Continious	0.0	1.0	0.200	0.420	0.350
+Nrot	Continious	0.0	1.0	40	60	50
+Type	Continious	0.0	1.0	40	60	1
+Speed	Continious	0.0	1.0	40	60	0

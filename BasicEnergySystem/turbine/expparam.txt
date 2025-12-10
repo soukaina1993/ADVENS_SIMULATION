@@ -1,0 +1,1 @@
+Name	Vs	VRi	Power	EtaExp	EtaElec	Dadm	Length	Width	Height	Weight	NrotNom	Cfric1	Cfric2Trane 	72	2.4	8	0.87	0.90	18	10	25	100	68	50	20	400Man	53	2.4	5	0.87	0.90	15	10	25	100	68	50	20	400Cop	60	2.8	7	0.87	0.90	15	10	25	100	70	50	20	400Atlas	75	2.4	9	0.87	0.90	15	10	25	100	65	50	20	400Hitachi	45	2.4	3	0.87	0.90	15	10	25	100	63	50	20	400

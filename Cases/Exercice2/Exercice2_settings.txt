@@ -1,0 +1,50 @@
+#Author
+Cornelia Blanke, HEIA-FR
+
+#Case
+Case Directory	C:\Users\cornelia.blanke\Documents\adv\Cases\Exercice2
+Case Name		Exercice2
+
+#Meteo
+Meteo File 		C:\Users\cornelia.blanke\Documents\adv\Cases\Exercice2\Exercice2_meteo.csv
+Meteo Year		2019
+
+#Central Plant
+Fluid		Water
+Boiler Type		NONE
+Boiler Power	10000000
+Boiler Price/kWh				-
+Supply Temperature				70
+Estimated Return Temperature	15
+
+#Solver (Simple or Full)
+Solve Mass Flow		Y
+Solve Temperature	Y
+Solver				Full
+Update COP			Y
+Solve Cost			Y
+
+#Results
+Save Results	Y
+Save Frequency	-
+
+Details				Total		CentralPlant	Electrons	Protons		Neutrons	Segments	Branches
+massflow			Y			Y				Y			Y			Y			Y			Y
+speed				Y			Y				Y			Y			Y			Y			Y
+mu					Y			Y				Y			Y			Y			Y			Y
+mubar				Y			Y				Y			Y			Y			Y			Y
+dP					Y			Y				Y			Y			Y			Y			Y
+dP_m				Y			Y				Y			Y			Y			Y			Y
+demand				Y			Y				Y			Y			Y			Y			Y
+power				Y			Y				Y			Y			Y			Y			Y
+dPower				Y			Y				Y			Y			Y			Y			Y
+TIn					Y			Y				Y			Y			Y			Y			Y
+TOut				Y			Y				Y			Y			Y			Y			Y
+dT					Y			Y				Y			Y			Y			Y			Y
+delta				Y			Y				Y			Y			Y			Y			Y
+nubar				Y			Y				Y			Y			Y			Y			Y
+epsilon				Y			Y				Y			Y			Y			Y			Y
+material_cost		Y			Y				Y			Y			Y			Y			Y
+engineering_cost	Y			Y				Y			Y			Y			Y			Y
+operating_cost		Y			Y				Y			Y			Y			Y			Y
+resources_cost		Y			Y				Y			Y			Y			Y			Y

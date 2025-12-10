@@ -1,0 +1,24 @@
+# if unwanted files are already tracked, they can be removed by
+# git status
+# git rm -f --cached filename
+# git rm -r --cached <folder>
+#
+/Cases/*/*_results_*
+/network_data/
+*.mexw64
+*.lib
+*.exe
+
+/extern/pybind11/
+/externals/CoolProp*/
+
+/Python/test/build/
+/Python/test/dist/
+/Python/my_app/build/
+/Python/my_app/dist/
+
+build/
+dist/
+.idea/
+
+/cmake-build-debug*/

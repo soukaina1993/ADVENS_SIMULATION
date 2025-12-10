@@ -1,0 +1,21 @@
+Substation nb	Energy [kWh/an]	Substation Type	Substation Name	Building Type	Heat Type	Altitude [m]	Tneed (°C)	T_ref (°C)	dT	L_raccord (m)	DN_raccord
+1	759000	HP	HP_2	Habitat_collectif	HeatECS	474	67	18	0.84	10	150
+2	36000	HP	HP_2	Habitat_collectif	HeatECS	474	40	18	1.57	10	80
+3	49000	HP	HP_2	Habitat_collectif	HeatECS	474	40	18	2.33	10	125
+4	80000	HP	HP_2	Habitat_collectif	HeatECS	474	40	18	0.99	0	80
+5	1207000	HP	HP_11	Ecole	HeatECS	474	60	18	2.1	2	200
+6	119000	HP	HP_7	Habitat_individuel	HeatECS	474	60	18	2.36	15	100
+7	170000	HP	HP_9	Habitat_collectif	HeatECS	474	60	18	0.45	5	125
+8	46000	HP	HP_1	Habitat_individuel	HeatECS	474	55	18	1.06	7	80
+9	17000	HP	HP_1	Habitat_individuel	HeatECS	474	40	18	0.15	0	80
+10	66000	HP	HP_1	Habitat_individuel	HeatECS	474	60	18	1.28	0	80
+11	63000	HP	HP_2	Habitat_collectif	HeatECS	474	55	18	1.1	15	80
+12	38000	HP	HP_1	Habitat_collectif	HeatECS	474	40	18	0.74	0	65
+13	162000	HP	HP_8	Habitat_collectif	HeatECS	474	55	18	1.05	0	125
+14	224000	HP	HP_5	Habitat_collectif	HeatECS	474	63	18	0.57	9	200
+15	141000	HP	HP_4	Habitat_collectif	HeatECS	474	40	18	1.27	0	125
+16	140000	HP	HP_4	Habitat_collectif	HeatECS	474	40	18	1.28	2	125
+17	105000	HP	HP_4	Habitat_collectif	HeatECS	474	40	18	1.18	0	80
+18	84000	HP	HP_4	Habitat_collectif	HeatECS	474	40	18	1.15	2	80
+19	54000	HP	HP_4	Habitat_collectif	HeatECS	474	40	18	1.01	12	80
+20	93000	HP	HP_4	Habitat_collectif	HeatECS	474	40	18	1.16	17	80

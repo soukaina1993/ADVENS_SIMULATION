@@ -1,0 +1,14 @@
+Chauffage 1980 et av	Chauffage 1980-2000	Chauffage 2000 -2010 	Chauffage nouveau et et r�nov�	Climatisation 1980 et av	Climatisation 1980-2000	Climatisation 2000 -2010 	Climatisation nouveau et et r�nov�	Ventilation 1980 et av	Ventilation 1980-2000	Ventilation 2000 -2010 	Ventilation nouveau et et r�nov�	elec 1980 et av	elec 1980-2000	elec 2000 -2010 	elec nouveau et et r�nov�	Temp�rature R�f�rence hiver	Diff�rence Temp�rature 1980 et av	Diff�rence Temp�rature  1980-2000	Diff�rence Temp�rature  2000 -2010 	Diff�rence Temp�rature  nouveau et et r�nov�	Tempr�ature Ete	Temp�rature demand�e chauffage	Litre d'eau	Taux R�novation 1980 et av	Taux R�novation 1980-2000	Taux R�novation 2000 -2010 	Taux R�novation nouveau et et r�nov�	Surface standard d'utilisation par personne
+kWh/m2	kWh/m3	kWh/m4	kWh/m5	kWh/m6	kWh/m7	kWh/m8	kWh/m9	kWh/m10	kWh/m11	kWh/m12	kWh/m13	kWh/m14	kWh/m15	kWh/m16	kWh/m17	degC	degC	degC	degC	degC	degC	degC	L/m2	-	-	-	-	m2/P
+colle	93.0	67.3	41.7	16.0	1	2.3	3.7	5	0.0	0.3	0.7	1.0	19.0	18.3	17.7	17	21.0	-2.0	-4	-6	-8	26.0	55	3.78	0.5575	0.16	0.08	0	40
+indiv	155.0	112.0	69.0	26.0	1	2.3	3.7	5	0.0	0.3	0.7	1.0	20.0	19.0	18.0	17	21.0	-2.0	-4	-6	-8	26.0	55	2.88	0.5575	0.16	0.08	0	60
+admin	51.0	37.7	24.3	11.0	14	15.3	16.7	18	6.0	5.3	4.7	4.0	49.0	44.7	40.3	36	21.0	-2.0	-4	-6	-8	26.0	55	3.085714286	0.5575	0.16	0.08	0	20
+ecole	92.0	68.0	44.0	20.0	3	5.3	7.7	10	2.0	2.7	3.3	4.0	23.0	22.0	21.0	20	21.0	-2.0	-4	-6	-8	26.0	55	5.445	0.5575	0.16	0.08	0	10
+comme	33.0	29.0	25.0	21.0	11	16.0	21.0	26	6.0	6.0	6.0	6.0	139.0	132.3	125.7	119	20.0	-2.0	-4	-6	-8	26.0	55	1.902857143	0.5575	0.16	0.08	0	10
+resta	105.0	77.0	49.0	21.0	17	23.3	29.7	36	20.0	17.0	14.0	11.0	79.0	74.7	70.3	66	21.0	-2.0	-4	-6	-8	26.0	55	12.34285714	0.5575	0.16	0.08	0	5
+rasse	91.0	66.7	42.3	18.0	4	6.7	9.3	12	14.0	12.3	10.7	9.0	38.0	35.7	33.3	31	21.0	-2.0	-4	-6	-8	26.0	55	5.592857143	0.5575	0.16	0.08	0	5
+hopit	71.0	51.7	32.3	13.0	7	9.3	11.7	14	1.0	2.7	4.3	6.0	35.0	33.3	31.7	30	22.0	-2.0	-4	-6	-8	26.0	55	7.392857143	0.5575	0.16	0.08	0	30
+indus	74.0	54.7	35.3	16.0	3	4.3	5.7	7	18.0	14.3	10.7	7.0	50.0	47.0	44.0	41	20.0	-2.0	-4	-6	-8	26.0	55	2.712857143	0.5575	0.16	0.08	0	20
+depot	69.0	51.0	33.0	15.0	0	0.3	0.7	1	0.0	0.7	1.3	2.0	18.0	18.0	18.0	18	18.0	-2.0	-4	-6	-8	26.0	55	1.272857143	0.5575	0.16	0.08	0	100
+sport	71.0	52.7	34.3	16.0	0	0.0	0.0	0	0.0	1.3	2.7	4.0	18.0	18.0	18.0	18	18.0	-2.0	-4	-6	-8	26.0	55	0	0.5575	0.16	0.08	0	20
+pisci	102.0	76.3	50.7	25.0	0	0.3	0.7	1	9.0	8.0	7.0	6.0	44.0	39.3	34.7	30	24.0	-2.0	-4	-6	-8	30.0	55	19.63285714	0.5575	0.16	0.08	0	20

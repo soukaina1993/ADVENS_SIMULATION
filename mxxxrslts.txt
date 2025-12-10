@@ -1,0 +1,2 @@
+ngen	score	Alleles	Pin	Tin	Xin	Pout	Mflow	Nrot	Type	Speed
+10	8447.55	genome	2.19067e+006	360.735	1	503060	0.35	50	1	0

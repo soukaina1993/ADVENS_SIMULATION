@@ -1,0 +1,4 @@
+Paramètre;T.DHN;dT_network;ResFlowRatio;DHN.Fluid.Type;AdditionnalPressure;Altittude.plant;Altittude.max;Altittude.min;Pipe.Material;Insulation.type;Central;HP;HX
+Valeur;18;-7;0;Water;100000;628;630;625;PEX;2;HXA;-1;0
+Valeur;50;15;0;Water;100000;628;630;625;PEX;2;NOT;1;2
+Valeur;85;20;0;Water;100000;628;630;625;PEX;3;CAD;0;-1

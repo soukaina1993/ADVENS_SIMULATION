@@ -1,0 +1,8 @@
+ID A0 A1 A2 A3 A4
+B0 Name Vs Diam Power Poids
+B1 Trane 72 23 8.0 68
+B2 Maneur 53 18 5.0 68
+B3 Cop 60 20 7.0 70
+B4 Atlas 75 25 9.0 65
+B5 Hitachi 45 12 3.0 63
+B6 Maneur 53 18 5.0 68

@@ -1,0 +1,10 @@
+params/gatype	simple	sstate	stggle	inc	deme
+PopulationSize	100	10	10	10	100
+nGeneration	20	20	20	20	50
+pCrossover	0.6	0.6	0.6	0.6	0.6
+pMutation	0.1	0.01	0.001	0.0001	0.0001
+nReplacement	1	1	1	1	1
+nMigration	0	0	0	0	2
+nPopulation	1	1	1	1	5
+ScoreFrequency	10	10	10	10	10
+FlushFrequency	10	10	10	10	10

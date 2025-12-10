@@ -1,0 +1,7 @@
+Name Vs Diam Power Poids
+Trane 72 23 8.0 68
+Maneur 53 18 5.0 68
+Cop 60 20 7.0 70
+Atlas 75 25 9.0 65
+Hitachi 45 12 3.0 63
+Maneur 53 18 5.0 68

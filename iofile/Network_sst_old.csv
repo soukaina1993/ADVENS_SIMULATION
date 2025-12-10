@@ -1,0 +1,4 @@
+Substation_nb;Type;Value;T_ref_(°C);Substation_Type;dT;Building type;Heat mode;L_raccord (m);DN_raccord;Altitude [m];0
+Generic;EGID;;12;HX;10;Habitat_collectif;Heat;1;150;628;0
+1;Energy;30000;;;;;;2;;;
+2;Energy;40000;;;;;;;;;

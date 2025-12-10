@@ -1,0 +1,3 @@
+Name	Fluid	COP	eta_comp	pinchCond	pinchEvap
+MyHP_1	R134a	Default	0.8	4	5
+MyHP_2	R134a	3.5	0	0	0

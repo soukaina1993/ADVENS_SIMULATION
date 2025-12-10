@@ -1,0 +1,4 @@
+Paramètre;Temperature allee;delta Temperature (allé moins retour);ResFlowRatio (paramètre pas encore défini);fluide (eau, etc);"Pression additionnelle (à ajouter dans les paramètres d'un réseau, sous ""plus d'options"")";altitude de la centrale;altitude maximum du réseau (dans plus d'options réseau);altitude minimum du réseau (dans plus d'options réseau);type de conduite (paramètre à ajouter dans un réseau, pas dans plus d'options);version du type de conduite (pex 2 ou pex 3 par exemple);types de centrales
+Valeur;18;-7;0;Water;100000;628;630;625;PEX;2;HXA
+Valeur;50;15;0;Water;100000;628;630;625;PEX;2;NOT
+Valeur;85;20;0;Water;100000;628;630;625;PEX;3;CAD
